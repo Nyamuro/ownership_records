@@ -4,6 +4,18 @@ Below are all original works timestamped on-chain and cryptographically signed.
 
 ---
 
+## 🎵 HABATAKE-ShinEnKaiHi_VerD by NYAMURO
+
+🔗 NFT Metadata (IPFS): https://ipfs.io/ipfs/QmQXRLm8Lj3RND5scYTyWET7adsyDjqKCTAyTXjkYKe5q9/15
+
+🧾 Proof Archive (ZIP): https://arweave.net/xWxm53ijrwZWU2HH8wfTBrqzatV00-b3OaUeumfwW6M
+
+🧠 MetaData Transaction (Arweave JSON): https://arweave.net/xDmYBNEDxmPptkhq6OGFCU5D9UoirOnsIWglYXSXVx8
+
+🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
+
+---
+
 ## 🎵 NewSong250824 by NYAMURO
 
 🔗 NFT Metadata (IPFS): https://ipfs.io/ipfs/QmSwG7qFk7xY824SnSZmtmf8QJwrXawaYuLU3AQCQdRkCh/14
@@ -135,6 +147,7 @@ Below are all original works timestamped on-chain and cryptographically signed.
 🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
 
 ---
+
 
 
 
