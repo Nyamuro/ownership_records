@@ -4,6 +4,18 @@ Below are all original works timestamped on-chain and cryptographically signed.
 
 ---
 
+## 🎵 NewRemix260223 by NYAMURO
+
+🔗 NFT Metadata (IPFS): https://ipfs.io/ipfs/QmTuRcy6qDThXCJ5k7D2TA7N6EKzYESvpc7hFTqWbWbBgM/30
+
+🧾 Proof Archive (ZIP): https://arweave.net/j49lLB8na-_A6YDt4NHe5Hhcq5rSp3YLqSTF7enziv8
+
+🧠 MetaData Transaction (Arweave JSON): https://arweave.net/3YzbIVXd5UETEG70XEp4Tb6SgIGBdRfBVSRGXpL81qY
+
+🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
+
+---
+
 ## 🎵 NewRemix260208b-260209 by NYAMURO
 
 🔗 NFT Metadata (IPFS): https://ipfs.io/ipfs/QmUN9UWsrFzQ5wa9EvTN79q8R11GKAM5jKzSTnGbrquW4A/29
@@ -315,6 +327,7 @@ Below are all original works timestamped on-chain and cryptographically signed.
 🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
 
 ---
+
 
 
 
