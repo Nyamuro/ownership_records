@@ -4,7 +4,7 @@ Below are all original works timestamped on-chain and cryptographically signed.
 
 ---
 
-## 🎵 NewRemix260820 by NYAMURO
+## 🎵 NewSong260820 by NYAMURO
 
 🔗 NFT Metadata (IPFS): https://ipfs.io/ipfs/bafybeibv6zr2gfa7n2zlztqj2fim56j4d2fudjksnipfn2db35otndm5sq/46
 
