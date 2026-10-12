@@ -4,6 +4,18 @@ Below are all original works timestamped on-chain and cryptographically signed.
 
 ---
 
+## 🎵 NewSong261011c-NotMyTab by NYAMURO
+
+🔗 NFT Metadata (IPFS): https://ipfs2.seadn.io/ipfs/bafybeibjmjo2ry57an3sisk3bgti3gf5l5yqmd74f7yq6ccmbfo7gmvpua/54
+
+🧾 Proof Archive (ZIP): https://arweave.net/nqgnFMI9G4iPoH9opqXwdMpyVRAWiCJlI0o1eh60asY
+
+🧠 MetaData Transaction (Arweave JSON): https://arweave.net/i8yrUll-eDUDQD04AaBCRxcXi_Q0bhhGuL71Vr_aaQ8
+
+🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
+
+---
+
 ## 🎵 NewSong261011b by NYAMURO
 
 🔗 NFT Metadata (IPFS): https://ipfs2.seadn.io/ipfs/bafybeidj2u6vs6xrq4bxo4hissd36jmxjquixmrw4yzo5bl6ui52iu5n4q/53
