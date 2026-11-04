@@ -4,6 +4,18 @@ Below are all original works timestamped on-chain and cryptographically signed.
 
 ---
 
+## 🎵 NewSong261103 by NYAMURO
+
+🔗 NFT Metadata (IPFS): https://ipfs2.seadn.io/ipfs/bafybeigewmmn6o6cf6iyjbfuf7ac4acpqrzfm5wuqkvhhb5d6qohoiodxy/63
+
+🧾 Proof Archive (ZIP): https://arweave.net/5_OJrMdgPanCIORLsQzLg_c0N9X9-Chc8Pw-wmJYjpc
+
+🧠 MetaData Transaction (Arweave JSON): https://arweave.net/9KWqUIyvIXEApqLEeaiB2-p-FStA2abN-sXep0JaE70
+
+🖋️ Artist Signature: ca235a94a9af18272a149719a1acc88464bc47d0f710a8875fee9ed984e8c81e
+
+---
+
 ## 🎵 NewSong261026b-261027 by NYAMURO
 
 🔗 NFT Metadata (IPFS): https://ipfs2.seadn.io/ipfs/bafybeieftcvdfgj33dt2u7kzzcfzxasmrlmla7dnrrip3rjiecmfgkoepm/62
